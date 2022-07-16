@@ -1,4 +1,4 @@
-module projects/Go-Quiz-Site
+module github.com/snorresovold/go-quiz-api
 
 go 1.18
 
